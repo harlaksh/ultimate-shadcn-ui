@@ -46,6 +46,7 @@ Welcome to the Ultimate shadcn-ui List! This repository compiles various resourc
 - [TW Blocks](https://github.com/tommyjepsen/twblocks) - Website blocks to copy/paste - based on shadcn & Radix using Tailwind and Next.js.
 - [Next.js Shadcn v0 Template](https://github.com/diegofcornejo/nextjs-shadcn-v0-template) - Next.js 13 + Tailwind CSS + Shadcn + v0 AI Starter.
 - [Shadcn UI Next Template](https://github.com/shadcn-ui/next-template) - A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+- [Tailwindadmin](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - Free Shadcn Dashboard Template Built On React and Tailwind CSS
 
 ## Tools and Extensions
 
